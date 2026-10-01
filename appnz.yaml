@@ -1,0 +1,6 @@
+name: offsitecalculator
+runtime: server
+output: web
+run:
+  command: ./offsite-server
+  port: 3000
